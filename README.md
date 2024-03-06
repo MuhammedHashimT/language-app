@@ -1,2 +1,1 @@
-# language-app
-A German Language Learning App
+# A GERMEN LANGUAGE LEARNING APP
